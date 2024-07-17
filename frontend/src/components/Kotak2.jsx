@@ -3,7 +3,9 @@ import React from 'react'
 function Kotak2() {
   return (
     <div>
-      Kotak2
+      <tr>
+        <td className='color1'>Kotak 2</td>
+      </tr>
     </div>
   )
 }

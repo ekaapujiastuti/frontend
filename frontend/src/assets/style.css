@@ -1,0 +1,26 @@
+.intro {
+    height: 100vh;
+    background-image: url('../assets/images/bg/main.webp');
+    background-attachment: fixed;
+    background-size: cover;
+}
+.trending {
+    background-image: url('../assets/images/bg/spiderman.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+.superhero {
+    background-image: url('../assets/images/bg/car.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+.card {
+    margin: 5px;
+    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgb(255, 97, 97) 35%, rgb(90, 15, 15)100%);
+    border: none;
+}
+.tombol {
+ position: fixed;
+ bottom: 10px;
+ right: 10px;
+}
